@@ -32,9 +32,3 @@ The project uses the **SMS Spam Collection Dataset**.
 
 ---
 
-## ⚙️ Installation  
-
-Clone the repository:  
-```bash
-git clone https://github.com/your-username/spam-classifier.git
-cd spam-classifier
